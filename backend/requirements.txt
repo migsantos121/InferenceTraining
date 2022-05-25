@@ -27,7 +27,7 @@ plac==0.9.6
 preshed==1.0.0
 pyasn1==0.4.2
 pycparser==2.18
-PyJWT==1.6.1
+PyJWT==2.4.0
 pytz==2018.4
 regex==2017.4.5
 requests==2.18.4
