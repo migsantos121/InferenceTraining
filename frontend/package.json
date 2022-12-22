@@ -26,7 +26,7 @@
     "fuzzy-search": "^1.4.0",
     "helmet": "^3.4.0",
     "jade": "~1.11.0",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^9.0.0",
     "morgan": "~1.7.0",
     "rackt-cli": "^0.8.0",
     "rc-menu": "^7.0.3",
